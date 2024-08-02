@@ -34,4 +34,4 @@ Debugging: Debug any issues encountered during simulation to ensure correct circ
 Through this project, you will gain hands-on experience in designing and simulating basic digital logic circuits using Verilog. It will enhance your understanding of digital logic concepts and prepare you for more complex VLSI design tasks involving FPGA or ASIC implementations.
 
 OUTPUT:
-![Uploading Edit code - EDA Playground - Google Chrome 02-08-2024 11_38_37.png…]()
+        ![Uploading Edit code - EDA Playground - Google Chrome 02-08-2024 11_38_37.png…]()
